@@ -13,7 +13,7 @@ This project displays a form by the right hand side and some texts on the left. 
 * [Twitter](https://twitter.com/elotachukwu)
 
 ### Prototypes
-![This is the preview.](./assets/images/Age_Calculator1.jpg "First Page.")
+![This is the preview.](./images/newsletter-preview.png)
 
 ### Languages used
 * HTML
