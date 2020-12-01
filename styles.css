@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.bg {
+  background-image: url();
+}
+
+.parent {
+  display: flex;
+  flex-direction: row;
+}
+
+.learn {
+  width: 50%;
+  color: #fff;
+  margin: 3%;
+}
+
+.heading {
+  font-size: 52px;
+}
+
+.para {
+  font-size: 20px;
+}
+
+.sign-up {
+  width: 50%;
+  margin: 3%;
+}
+
+.try {
+  font-size: 18px;
+  padding: 15px;
+  color: white;
+  background-color: #5054a3;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.block {
+  display: block;
+  width: 95%;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+
+.terms {
+  font-size: 12px;
+  text-align: center;
+}
+
+.green {
+  background-color: #37cc8a;
+  display: block;
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  padding: 10px;
+  color: white;
+}
+
+.form {
+  background-color: white;
+  padding: 40px;
+}
