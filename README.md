@@ -2,7 +2,7 @@
 This project displays a form by the right hand side and some texts on the left. CSS flex was used, basically, for this work.
 
 ## Live demo
-[See live project here](https://compassionate-spence-85714a.netlify.app/)
+[See live project here](https://chiagoziem-newsletter.netlify.app/)
 
 ## Author
 * Chiagoziem Ede
