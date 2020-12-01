@@ -1,11 +1,10 @@
 * {
   margin: 0;
   padding: 0;
-  border: 0;
 }
 
 .bg {
-  background-image: url();
+  background-image: url(background.jpg);
 }
 
 .parent {
@@ -16,7 +15,7 @@
 .learn {
   width: 50%;
   color: #fff;
-  margin: 3%;
+  margin: 15% 3% 3% 3%;
 }
 
 .heading {
@@ -62,9 +61,11 @@
   margin-bottom: 30px;
   padding: 10px;
   color: white;
+  border: none;
 }
 
 .form {
   background-color: white;
   padding: 40px;
+  border-radius: 10px;
 }
